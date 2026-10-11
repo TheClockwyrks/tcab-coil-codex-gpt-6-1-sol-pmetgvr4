@@ -1,0 +1,11 @@
+{
+  "sample_rate": 44100,
+  "channels": "stereo",
+  "max_duration_ms": 8000,
+  "seed": 11,
+  "instrument_bank": "synthwave",
+  "actions": "assets/recipes/music.json",
+  "preview": "/tmp/music.png",
+  "wav": "assets/audio/music.wav",
+  "midi": "assets/audio/music.mid"
+}

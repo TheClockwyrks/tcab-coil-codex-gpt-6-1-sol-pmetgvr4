@@ -1,0 +1,9 @@
+{
+  "sample_rate": 44100,
+  "channels": "stereo",
+  "max_duration_ms": 100,
+  "seed": 7,
+  "actions": "assets/recipes/combo-up-audio.json",
+  "preview": "/tmp/combo-up.png",
+  "wav": "assets/audio/combo-up.wav"
+}

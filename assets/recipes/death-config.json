@@ -1,0 +1,9 @@
+{
+  "sample_rate": 44100,
+  "channels": "stereo",
+  "max_duration_ms": 650,
+  "seed": 7,
+  "actions": "assets/recipes/death-audio.json",
+  "preview": "/tmp/death.png",
+  "wav": "assets/audio/death.wav"
+}
